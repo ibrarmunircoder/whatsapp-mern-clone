@@ -1,0 +1,6 @@
+1- run command firebase login
+2- Run command firebase init
+3- Selection hosting option and exisiting project
+4- public folder name build
+5- npm run build
+firebase deploy
